@@ -2,6 +2,6 @@ function addTask() {}
 
 function updateTodoList() {}
 
-function createNewTodoItemElement(todoItem, index) {}
+function createNewTodoItemElement(task, index) {}
 
 function toggleComplete(index) {}
