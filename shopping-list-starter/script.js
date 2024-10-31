@@ -1,3 +1,3 @@
-function addItem() {}
+const addItem = () => {};
 
-function updateItems() {}
+const updateItems = () => {};

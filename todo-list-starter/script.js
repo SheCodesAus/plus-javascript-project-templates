@@ -1,7 +1,7 @@
-function addTask() {}
+const addTask = () => {};
 
-function updateTodoList() {}
+const updateTodoList = () => {};
 
-function createNewTodoItemElement(task, index) {}
+const createNewTodoItemElement = (task, index) => {};
 
-function toggleComplete(index) {}
+const toggleComplete = (index) => {};
