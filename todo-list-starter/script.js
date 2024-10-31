@@ -1,7 +1,15 @@
-const addTask = () => {};
+const addTask = () => {
 
-const updateTodoList = () => {};
+};
 
-const createNewTodoItemElement = (task, index) => {};
+const updateTodoList = () => {
 
-const toggleComplete = (index) => {};
+};
+
+const createNewTodoItemElement = (task, index) => {
+
+};
+
+const toggleComplete = (index) => {
+    
+};
